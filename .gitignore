@@ -3,3 +3,4 @@
 *.suo
 *.testlog
 *.manifest
+.vs/*
