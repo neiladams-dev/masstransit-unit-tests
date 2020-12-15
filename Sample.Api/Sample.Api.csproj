@@ -6,11 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Contracts\" />
-    <Folder Include="Domain\Services\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="CorrelationId" Version="3.0.0" />
     <PackageReference Include="MassTransit" Version="7.0.7" />
     <PackageReference Include="MassTransit.AspNetCore" Version="7.0.7" />
